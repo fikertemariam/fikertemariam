@@ -6,5 +6,4 @@ Web App Developer and Designer, UI/UX Designer, and Kony Infinity Developer
 
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [fikertemariammekonnen@gmail.com](mailto:fikertemariammekonnen@gmail.com)
-* 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on interesting projects 
